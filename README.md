@@ -18,13 +18,17 @@ Installation for Mac/Unix.
 
 ```sh
 Install Python 3.8: https://www.python.org/downloads/ (avoid the 64-bit versions)
+
 sudo pip install deepface
+
 sudo pip install tk
 ```
 
 Installation for Windows
 
 ```sh
+Install Python 3.8: https://www.python.org/downloads/ (avoid the 64-bit versions)
+
 pip install deepface
 
 pip install tk
